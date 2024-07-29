@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryLambda", "TryLambda.csproj", "{DC603B0B-C403-42CD-B747-87C9A8B5CFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryLambdaTests1", "..\TryLambdaTests1\TryLambdaTests1.csproj", "{D40DF8FA-A944-46AF-988E-3C4F9974795F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC603B0B-C403-42CD-B747-87C9A8B5CFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC603B0B-C403-42CD-B747-87C9A8B5CFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC603B0B-C403-42CD-B747-87C9A8B5CFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC603B0B-C403-42CD-B747-87C9A8B5CFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40DF8FA-A944-46AF-988E-3C4F9974795F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40DF8FA-A944-46AF-988E-3C4F9974795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40DF8FA-A944-46AF-988E-3C4F9974795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40DF8FA-A944-46AF-988E-3C4F9974795F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690E46DA-3449-43EF-A541-96712ACCEDDE}
+	EndGlobalSection
+EndGlobal
